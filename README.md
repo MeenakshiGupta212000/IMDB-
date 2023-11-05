@@ -18,3 +18,4 @@ To run the IMDb Clone on your local machine, follow these steps:
 1. Clone this repository to your local machine using Git.
 
 ```bash
+https://github.com/MeenakshiGupta212000/IMDB-.git
